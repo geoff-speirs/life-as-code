@@ -1,4 +1,4 @@
-# life-as-code
+# Life as Code
 A description of how I organise my life.
 
 ## Why have life as code?
