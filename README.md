@@ -10,3 +10,7 @@ Start with the simplest possible approach and make sure I follow the process. On
 
 ### Security first
 Don't compromise on security. Especially don't publically share any personal or sensitive information.
+
+## Ways of Working
+1. Add and takes notes in issues. This is where notes and thoughts can go before they are formalised.
+2. Document finalised information in source control.
