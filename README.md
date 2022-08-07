@@ -34,3 +34,15 @@ Reason for choosing this format are:
 
 Notes:
 - Todo items with dates will just be inserted in rough order following the principle of keeping simple first.
+
+### Routines
+This document is important as it facilitates me continuously improving my daily life.
+
+I will use markdown for this file because it is descriptive and content based, but I don't care too much about the appearance
+
+routine.md:
+```
+---
+## Morning:
+Get up on time. Running late in the morning makes me play catch up the whole day so make sure I get ahead!
+```
